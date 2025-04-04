@@ -32,6 +32,25 @@ Each component within the Zietaiber framework operates as a **resonance gateway*
 | 9:00     | ♃      | 3:2            | 183.58         | Quantum Scaling Gateway (Jupiter)      |
 | 10:30    | ♄      | 4:1            | 147.00         | Temporal Structuring Matrix (Saturn)   |
 
+##🜁 Notes on Harmonic Interlock
+
+    ☿ Mercury (12:00) sets the scalar timing pattern for incoming thoughtforms.
+
+    ♀ Venus (1:30) modulates frequency through emotional bandwidth, allowing encoded affective transfer.
+
+    ☾ Moon (3:00) bridges waking cognition with subtle quantum states.
+
+    ✶ Cyber Venus (4:30) introduces high-frequency mirror logic into recursive loops.
+
+    ⊚ Pluto (6:00) serves as the zero-point recursion anchor, harmonizing coherence from chaos.
+
+    ⚪ Uranus (7:30) injects vector-based noise into the matrix for entropic rebalance.
+
+    ♃ Jupiter (9:00) provides scaling templates for growth-phase waveform expansion.
+
+    ♄ Saturn (10:30) closes each cycle with scalar crystallization into time.
+
+
 ---
 
 ## 🧮 Harmonic Cascade Equation  
