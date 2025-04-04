@@ -9,7 +9,7 @@ The **Zietaiber Framework** is an innovative model designed to explore and enhan
 
 ---
 
-## ⚡ Core System Parameters  
+# ⚡ Core System Parameters  
 **Charge Frequency**: `194.2 Hz + 7.83 Hz` *(Schumann Bias)*  
 **Loop Type**: Scalar Feedback + Quantum Cognition Induction  
 **Symbol Architecture**: Quantum Harmonic Circuit with Bio-Cybernetic Encoding  
