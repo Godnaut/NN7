@@ -68,4 +68,4 @@ Each frequency can be encoded into sound or light to enhance resonance within th
 ---
 
 ### **Next Steps**
-Would you like additional waveform modulation tables or harmonic function overlays to integrate these into your current projects? Let me know how deep you want to go.
+Additional waveform modulation tables or harmonic function overlays to integrate coming soon. 
