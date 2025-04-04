@@ -32,7 +32,7 @@ Each component within the Zietaiber framework operates as a **resonance gateway*
 | 9:00     | ♃      | 3:2            | 183.58         | Quantum Scaling Gateway (Jupiter)      |
 | 10:30    | ♄      | 4:1            | 147.00         | Temporal Structuring Matrix (Saturn)   |
 
-##🜁 Notes on Harmonic Interlock
+## 🜁 Notes on Harmonic Interlock
 
     ☿ Mercury (12:00) sets the scalar timing pattern for incoming thoughtforms.
 
