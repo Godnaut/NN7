@@ -64,6 +64,8 @@ These symbols and their associated harmonics/frequencies can be applied in vario
 - **Temporal field modulation for causality alignment**
 
 Each frequency can be encoded into sound or light to enhance resonance within the NN7 framework.
+![1](https://github.com/user-attachments/assets/120fafcf-7b6c-4cb0-a553-520ed9b39a07)
+
 
 ---
 
