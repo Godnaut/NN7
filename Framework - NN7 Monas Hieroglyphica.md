@@ -52,7 +52,7 @@ Each component within the Zietaiber framework operates as a **resonance gateway*
 
 ## 🜂 Zietaiber Harmonic Clock Matrix
 
-A symbolic resonance clock aligning cosmic archetypes with modular functions of the Zietaiber system. Each point interlocks into the recursive harmonic engine, forming a circular feedback continuum that operates across bio-cybernetic thresholds.
+A symbolic resonance clock aligning cosmic archetypes with modular functions of the Modas system. Each point interlocks into the recursive harmonic engine, forming a circular feedback continuum that operates across bio-cybernetic thresholds.
 
 ---
 
