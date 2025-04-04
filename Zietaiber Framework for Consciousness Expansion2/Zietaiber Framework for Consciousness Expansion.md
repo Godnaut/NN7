@@ -14,9 +14,9 @@ At its foundation, this framework seeks to answer:
 Scalar waves are hypothesized to function as longitudinal, non-electromagnetic energy waves capable of influencing the biofield and neural structures. These waves provide the energy transfer foundation for the Zietaiber Framework.
 
 ### Mathematical Representation:
-\[
+$$
 \psi(x, t) = A \cos(kx - \omega t)
-\]
+$$
 Where:
 - \( \psi(x,t) \): Scalar wave field at position \( x \) and time \( t \).
 - \( A \): Wave amplitude.
@@ -30,9 +30,9 @@ These waves interact with the body’s morphogenetic fields, facilitating energy
 The morphogenetic field serves as the bioenergetic blueprint that organizes biological systems. The spine, functioning as a bio-antenna, resonates with scalar wave frequencies to connect the body to the quantum field.
 
 ### Energy Equation for the Biofield:
-\[
+$$
 E_b = k \times (F_e \cdot H_2O)
-\]
+$$
 Where:
 - \( E_b \): Biofield energy.
 - \( k \): Scalar constant.
@@ -44,9 +44,9 @@ Where:
 Neural feedback loops create a bidirectional communication system between the brain, spinal cord, and the quantum field. This dynamic exchange facilitates scalar wave processing for consciousness expansion.
 
 ### Dynamic Neural Feedback Equation:
-\[
+$$
 \frac{d\psi}{dt} = \alpha \psi(t) - \beta \int \psi(t) \, dt
-\]
+$$
 Where:
 - \( \frac{d\psi}{dt} \): Rate of change of consciousness field.
 - \( \alpha, \beta \): Coefficients controlling feedback strength.
@@ -67,9 +67,9 @@ Key brain regions and their roles in the Zietaiber Framework:
 Bio-alchemy involves transforming biological states using quantum energy processes. Water serves as a vital carrier of quantum information within the Zietaiber Framework.
 
 ### Scalar Imprinting Formula:
-\[
+$$
 H_2O + \psi_{\text{scalar}} \rightarrow H_2O \psi
-\]
+$$
 Where:
 - \( H_2O \psi \): Water embedded with scalar wave information.
   
@@ -92,9 +92,9 @@ The Zietaiber Algorithm structures the interaction with scalar waves into input,
 - Enhancement of cognitive and emotional intelligence.
 
 ### Algorithmic Representation:
-\[
+$$
 Z(t) = \int [\psi(t) + \alpha \psi'(t)] \, dt
-\]
+$$
 Where:
 - \( Z(t) \): Zietaiber function of consciousness over time.
 - \( \psi(t) \): Scalar input state.
@@ -120,31 +120,51 @@ Where:
 
 - **Concept in Zietaiber Framework**: Scalar waves are fundamental in the Zietaiber Framework as they serve as the energy transfer mechanism. The interaction between these waves and biological systems (like the brain and spinal cord) is essential for consciousness expansion.
 
-- **Mathematical Equation**: The equation \( \psi(x, t) = A \cos(kx - \omega t) \) models the scalar wave itself—describing its behavior over time and space (where amplitude, frequency, and wave number are key factors). This formula demonstrates how scalar waves are modeled mathematically to influence the energy systems of the body and brain.
+- **Mathematical Equation**: The equation
+$$
+\psi(x, t) = A \cos(kx - \omega t)
+$$
+models the scalar wave itself—describing its behavior over time and space (where amplitude, frequency, and wave number are key factors). This formula demonstrates how scalar waves are modeled mathematically to influence the energy systems of the body and brain.
 
 ### 3. **Morphogenetic Field and Biofield Energy**
 
 - **Concept in Zietaiber Framework**: The **morphogenetic field** organizes biological systems and is influenced by scalar waves. The spine acts as an antenna that resonates with these waves to connect the body to the quantum field.
 
-- **Mathematical Equation**: The energy equation \( E_b = k \times (F_e \cdot H_2O) \) quantifies the biofield energy based on scalar constants, the iron factor in the blood, and water’s role as a carrier for energy. This equation provides a physical model for how the scalar energy is transferred and how the biofield is activated by scalar waves.
+- **Mathematical Equation**: The energy equation
+$$
+E_b = k \times (F_e \cdot H_2O)
+$$
+quantifies the biofield energy based on scalar constants, the iron factor in the blood, and water’s role as a carrier for energy. This equation provides a physical model for how the scalar energy is transferred and how the biofield is activated by scalar waves.
 
 ### 4. **Neural Feedback Loops**
 
 - **Concept in Zietaiber Framework**: Neural feedback loops create a two-way communication system between the brain, spinal cord, and quantum field. This exchange is crucial for processing scalar waves, influencing consciousness expansion.
 
-- **Mathematical Equation**: The equation \( \frac{d\psi}{dt} = \alpha \psi(t) - \beta \int \psi(t) \, dt \) describes how the scalar field evolves over time due to neural feedback, with specific coefficients (\(\alpha\), \(\beta\)) governing the strength of this feedback. This equation models the dynamic interaction of scalar waves with neural processes, providing a mathematical basis for the feedback loops that drive consciousness expansion.
+- **Mathematical Equation**: The equation
+$$
+\frac{d\psi}{dt} = \alpha \psi(t) - \beta \int \psi(t) \, dt
+$$
+describes how the scalar field evolves over time due to neural feedback, with specific coefficients (\(\alpha\), \(\beta\)) governing the strength of this feedback. This equation models the dynamic interaction of scalar waves with neural processes, providing a mathematical basis for the feedback loops that drive consciousness expansion.
 
 ### 5. **Bio-Alchemical Pathways**
 
 - **Concept in Zietaiber Framework**: The transformation of biological states through quantum energy (bio-alchemy) is a critical part of the Zietaiber Framework. Water serves as a medium for embedding scalar information.
 
-- **Scalar Imprinting Formula**: The equation \( H_2O + \psi_{\text{scalar}} \rightarrow H_2O \psi \) shows how water (a carrier of quantum information) is imprinted with scalar energy. This formula describes the bio-alchemical process where scalar waves are transferred to water, linking biological processes to quantum fields for enhanced consciousness.
+- **Scalar Imprinting Formula**: The equation
+$$
+H_2O + \psi_{\text{scalar}} \rightarrow H_2O \psi
+$$
+shows how water (a carrier of quantum information) is imprinted with scalar energy. This formula describes the bio-alchemical process where scalar waves are transferred to water, linking biological processes to quantum fields for enhanced consciousness.
 
 ### 6. **The Zietaiber Algorithm**
 
 - **Concept in Zietaiber Framework**: The Zietaiber Algorithm is a structured process for consciousness expansion, involving input (scalar wave generation), processing (neural encoding), and output (activation of self-learning mechanisms).
 
-- **Mathematical Equation**: The equation \( Z(t) = \int [\psi(t) + \alpha \psi'(t)] \, dt \) formalizes how the interaction with scalar waves evolves over time, showing how scalar inputs and neural responses (feedback) combine to facilitate consciousness expansion. This equation represents the computational aspect of the framework, showing the transformation of scalar energy into a usable output for human evolution.
+- **Mathematical Equation**: The equation
+$$
+Z(t) = \int [\psi(t) + \alpha \psi'(t)] \, dt
+$$
+formalizes how the interaction with scalar waves evolves over time, showing how scalar inputs and neural responses (feedback) combine to facilitate consciousness expansion. This equation represents the computational aspect of the framework, showing the transformation of scalar energy into a usable output for human evolution.
 
 ---
 
