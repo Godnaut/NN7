@@ -1,4 +1,4 @@
-# 🧠 Zietaiber Framework for Consciousness Expansion  
+# 🧠 NN7 Monas Hieroglyphica for Consciousness Expansion  
 ### *Cybernetic Interface for Bio-Cybernetic Systems, Quantum Cognition, and Scalar Wave Dynamics*
 
 > **Author**: Stephen John Roberts  
