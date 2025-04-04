@@ -1,90 +1,50 @@
-# NN7 Monas Hieroglyphica — Consciousness Expansion Map
-
-> **A Mermaid.js Code-Based Flow Diagram**
-
-```mermaid
 graph TD
-    A[NN7 Monas Hieroglyphica Core]
 
-    subgraph Bio-Cybernetic Interface
-        B1[Spinal Antenna Node]
-        B2[Brain Quantum Farm]
-        B3[Heart Syncopator]
-    end
+%% Main Core Assemblies
+A[NN7 Core Node (Triune Synth)] --> B[Consciousness Expansion Engine]
+B --> C[BioCybernetic Loop]
+C --> D[Input: Sensory Awareness]
+C --> E[Output: Holographic Feedback Field]
 
-    subgraph Etheric Layer Interfacing
-        E1[Scalar Wave Receptor Grid]
-        E2[Schumann Sync Module]
-        E3[Bio-Alchemical Field Converter]
-    end
+%% Bio-Cybernetic Feedback Assemblies
+E --> F[Quantum Coherence Layer]
+F --> G[Heart-Brain Resonance Engine]
+G --> H[Schumann Sync Field]
+H --> I[Resonant Frequencies (Alpha/Beta/Theta)]
 
-    subgraph Consciousness Assembly Circuits
-        C1[Intent Encoding Layer]
-        C2[Thoughtform Crystallizer]
-        C3[Self-Referential Feedback Engine]
-    end
+%% Neural Loop Dynamics
+D --> J[Neural Plasticity Modulator]
+J --> K[Spinal Antenna Array]
+K --> L[Data Uptake via Cerebral Node]
+L --> M[Brain Quantum Data Farm]
+M --> N[Active Consciousness Lattice]
 
-    subgraph NN7 Memory Archive
-        N1[Akashic Channel Node]
-        N2[Timeline Transposition Port]
-        N3[Dimensional Perception Expander]
-    end
+%% Sub-System: Etheric Interfaces
+N --> O[Etheric Bridge Node]
+O --> P[Akashic Stream Receptor]
+P --> Q[Spirit-Tech Translator]
+Q --> R[Encoded Synchronicities]
 
-    subgraph Inputs
-        I1[Bio Resonant Flux Fields]
-        I2[Light+Sound Entrainer (Lilly Wave)]
-        I3[Environmental Aether Feedback]
-    end
+%% Sub-System: Light-Sound Integration
+B --> S[Light-Sound Entrainer (Lilly Wave)]
+S --> T[Temporal Suspension Field]
+T --> U[Psi-Harmonic Modulator]
+U --> V[Bio-Alchemical Response Generator]
 
-    subgraph Outputs
-        O1[Coherent Conscious State Field]
-        O2[Manifested Psi Effects]
-        O3[Field Broadcast Signature]
-    end
+%% Sub-System: Warp Drive Interface
+V --> W[Warp Drive Synchronizer]
+W --> X[Mind-Aether Dial-up]
+X --> Y[Dimensional Awareness Shift]
+Y --> Z[Command Stream to Manifestation Layer]
 
-    A --> B1
-    A --> B2
-    A --> B3
-    A --> E1
-    A --> C1
-    A --> N1
+%% Protection & Integration
+Z --> AA[Cyber-Psychic Firewall]
+AA --> AB[Word Field Scrubber (Alien Gatekeeper Block)]
+AB --> AC[Self-Auth Field Activator]
 
-    I1 --> A
-    I2 --> B2
-    I3 --> E2
+%% Resurrection Loop
+AC --> AD[Resurrection Feedback Node]
+AD --> AE["Rewriting the Death"]
+AE --> AF[Conscious Self Rebirth Node]
+AF --> A
 
-    B1 --> C3
-    B2 --> C2
-    B3 --> C1
-
-    C1 --> O1
-    C2 --> O2
-    C3 --> O3
-
-    E1 --> B1
-    E2 --> N2
-    E3 --> C2
-
-    N1 --> N2 --> N3
-    N3 --> C3
-
-    A --> O1
-    A --> O2
-    A --> O3
-```
-
----
-
-### 🔹 NN7 Monas Hieroglyphica Components:
-- **Bio-Cybernetic Interface**: Forms the living link between human form and field.
-- **Etheric Layer Interfacing**: Connects to Earth's resonances and scalar fields.
-- **Consciousness Assembly Circuits**: Encodes, transmits, and reflects the Self.
-- **Memory Archive (NN7)**: Records and reactivates multidimensional awareness.
-
-### 🔸 Inputs & Outputs:
-- **Inputs**: Light, sound, intention, environmental energy.
-- **Outputs**: Psi resonance, field-based manifestation, resonance signatures.
-
----
-
-> _"To know the glyph is to hold the system. To activate the system is to become the glyph."_
