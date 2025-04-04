@@ -1,3 +1,5 @@
+![A_8z92Ol_400x400](https://github.com/user-attachments/assets/f1ba352b-7f48-45d2-9f16-0c06adf64937)
+
 # NN7 Monas Hieroglyphica  
 *A Cybernetic Scalar Operating System for Harmonic Fieldwork*
 
