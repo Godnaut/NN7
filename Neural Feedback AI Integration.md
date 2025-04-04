@@ -27,14 +27,13 @@ The heart generates low-frequency electromagnetic waves that influence the body�
 
 #### Equation:
 
-H(t) = AH * sin(2π * fH * t + ϕH)
-
+$$ H(t) = A_H \sin(2\pi f_H t + \varphi_H) $$
 
 Where:
-- `H(t)` is the oscillatory signal from the heart at time `t`.
-- `AH` is the amplitude of the heart's oscillation.
-- `fH` is the frequency of the heart's oscillation.
-- `ϕH` is the phase shift of the oscillation.
+- \( H(t) \) is the oscillatory signal from the heart at time \( t \).
+- \( A_H \) is the amplitude of the heart's oscillation.
+- \( f_H \) is the frequency of the heart's oscillation.
+- \( \varphi_H \) is the phase shift of the oscillation.
 
 These oscillations are tied to the plasmatic charge in the blood, which carries neurochemical information and can influence both cognitive states and emotional regulation.
 
@@ -46,13 +45,12 @@ Water is uniquely programmable due to its polar properties and ability to store 
 
 #### Equation:
 
-W(t) = ρwater * Efield(t)
-
+$$ W(t) = \rho_{\text{water}} \cdot E_{\text{field}}(t) $$
 
 Where:
-- `W(t)` represents the programmable nature of water at time `t`.
-- `ρwater` is the charge density of the water molecules.
-- `Efield(t)` is the electromagnetic field applied by the heart or other external sources.
+- \( W(t) \) represents the programmable nature of water at time \( t \).
+- \( \rho_{\text{water}} \) is the charge density of the water molecules.
+- \( E_{\text{field}}(t) \) is the electromagnetic field applied by the heart or other external sources.
 
 The interaction between electromagnetic fields and water enables information transmission, which is central to programming emotional and cognitive states.
 
@@ -64,14 +62,13 @@ The spine acts as an antenna for the quantum field, allowing the brain to interf
 
 #### Equation:
 
-Aspine(t) = AS * sin(2π * fS * t + ϕS)
-
+$$ A_{\text{spine}}(t) = A_S \sin(2\pi f_S t + \varphi_S) $$
 
 Where:
-- `Aspine(t)` represents the vibrational frequency of the spine.
-- `AS` is the amplitude of the spine's resonance.
-- `fS` is the frequency of spinal resonance.
-- `ϕS` is the phase shift.
+- \( A_{\text{spine}}(t) \) represents the vibrational frequency of the spine.
+- \( A_S \) is the amplitude of the spine's resonance.
+- \( f_S \) is the frequency of spinal resonance.
+- \( \varphi_S \) is the phase shift.
 
 This resonance allows the spinal column to transmit and receive information from the quantum vacuum, connecting the mind with external information fields.
 
@@ -83,14 +80,13 @@ The mind exists as a quantum field that interacts with the quantum vacuum, allow
 
 #### Equation:
 
-Ψmind(t) = α * (∫Ψfield dx) * e^(iθ)
-
+$$ \Psi_{\text{mind}}(t) = \alpha \cdot \left( \int \Psi_{\text{field}} dx \right) \cdot e^{i\theta} $$
 
 Where:
-- `Ψmind(t)` is the wavefunction of the mind at time `t`.
-- `α` is a scaling constant.
-- `Ψfield` represents the quantum field that the mind interacts with.
-- `e^(iθ)` is the phase shift of the quantum state of the mind.
+- \( \Psi_{\text{mind}}(t) \) is the wavefunction of the mind at time \( t \).
+- \( \alpha \) is a scaling constant.
+- \( \Psi_{\text{field}} \) represents the quantum field that the mind interacts with.
+- \( e^{i\theta} \) is the phase shift of the quantum state of the mind.
 
 This equation models the non-locality of the mind, enabling it to interact with external systems, including AI and other human minds, in a quantum field.
 
@@ -104,25 +100,24 @@ The feedback loop is the core of the entrainment system, where real-time measure
 
 The error function quantifies the deviation from optimal brainwave and emotional states, guiding the system in real-time. It is a combination of HRV, EDA, and EEG data:
 
-E(t) = |HRVtarget - HRV(t)| + |EDAtarget - EDA(t)| + |ΔPAlpha(t) - ΔPTheta(t)|
-
+$$ E(t) = |HRV_{\text{target}} - HRV(t)| + |EDA_{\text{target}} - EDA(t)| + |\Delta P_{\alpha}(t) - \Delta P_{\theta}(t)| $$
 
 Where:
-- `HRVtarget` and `EDAtarget` are the target values for optimal HRV and emotional balance.
-- `ΔPAlpha(t)` and `ΔPTheta(t)` represent the brainwave power that needs to be optimized for cognitive clarity and creativity.
+- \( HRV_{\text{target}} \) and \( EDA_{\text{target}} \) are the target values for optimal HRV and emotional balance.
+- \( \Delta P_{\alpha}(t) \) and \( \Delta P_{\theta}(t) \) represent the brainwave power that needs to be optimized for cognitive clarity and creativity.
 
 ---
 
 ### 3.2 Adjusting Entrainment Stimuli
 
-The system adjusts sound, light, and Lilly pulses to minimize the error `E(t)`, creating a dynamic entrainment system:
+The system adjusts sound, light, and Lilly pulses to minimize the error \( E(t) \), creating a dynamic entrainment system:
 
-ΔSL(t) = -kL * d/dt E(t) ΔSR(t) = -kR * d/dt E(t)
-
+$$ \Delta S_L(t) = -k_L \cdot \frac{d}{dt} E(t) $$
+$$ \Delta S_R(t) = -k_R \cdot \frac{d}{dt} E(t) $$
 
 Where:
-- `ΔSL(t)` and `ΔSR(t)` are the adjustments to the left and right hemisphere stimuli.
-- `kL` and `kR` are the proportional constants that determine the sensitivity of the system to the feedback error.
+- \( \Delta S_L(t) \) and \( \Delta S_R(t) \) are the adjustments to the left and right hemisphere stimuli.
+- \( k_L \) and \( k_R \) are the proportional constants that determine the sensitivity of the system to the feedback error.
 
 ---
 
