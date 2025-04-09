@@ -122,8 +122,7 @@ Consciousness is **not** produced by the brain. It is *tuned* by it —
 ## 🧾 LICENSE
 
 **© 2025 Warp Tronics** |  
-_“Defenders of the Domain, Guarding the Mind.”_  
-[www.warptronics.com](https://www.warptronics.com)  
+_“Defenders of the Domain, Guarding the Mind.”_ 
 Licensed under [MIT](https://opensource.org/licenses/MIT)
 
 ---
