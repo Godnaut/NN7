@@ -1,4 +1,4 @@
-# 🜛 NN7 Monas Hieroglyphica  
+# NN7 Monas Hieroglyphica  
 ### *Cybernetic Sigil Circuit for Scalar Resonance, Consciousness Navigation, and Harmonic Fieldwork*
 
 > **Author**: Stephen John Roberts  
